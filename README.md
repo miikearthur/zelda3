@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Disclaimer:** this is just a fork of [snesrev/zelda3](https://github.com/snesrev/zelda3) with a fix for the original project's Nintendo Switch build, which had been broken since the source files were moved to `src/` ([snesrev/zelda3#266](https://github.com/snesrev/zelda3/issues/266)). It also provides a Switch build made with a current libnx, as required for firmware 21.0.0 and later. Get it from the [v0.3.1 release](https://github.com/miikearthur/zelda3/releases/tag/v0.3.1).
+
 # Zelda3
 A reimplementation of Zelda 3.
 
