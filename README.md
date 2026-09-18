@@ -109,7 +109,7 @@ You need [DevKitPro](https://devkitpro.org/wiki/Getting_Started) and [Atmosphere
 
 ```sh
 (dkp-)pacman -S git switch-dev switch-sdl2 switch-tools
-cd platform/switch
+cd src/platform/switch
 make # Add -j$(nproc) to build using all cores ( Optional )
 # You can test the build directly onto the switch ( Optional )
 nxlink -s zelda3.nro
